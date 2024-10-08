@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://e4c0-103-43-112-97.ngrok-free.app/bin/franklin.delivery/adobe-rnd/nissan-poc/main
+    url: https://e4c0-103-43-112-97.ngrok-free.app/bin/franklin.delivery/deepprakash345/submissiontest/main
     type: "markup"
     suffix: ".html"
